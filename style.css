@@ -1,0 +1,31 @@
+/*Global*/
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #2c2c54;
+}
+
+/*Section*/
+
+section {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    letter-spacing: 1.5rem;
+    font-weight: lighter;
+}
+
+p {
+    letter-spacing: 0.2rem;
+    text-transform: lowercase;
+    padding: 0 25%;
+}
