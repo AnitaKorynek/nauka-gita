@@ -33,3 +33,6 @@ p {
     padding: 0 25%;
 }
 
+h1:hover {
+    color: pink;
+}
