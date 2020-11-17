@@ -19,6 +19,8 @@
   "homepage": "https://github.com/AnitaKorynek/nauka-gita#readme",
   "devDependencies": {
     "browser-sync": "^2.26.13",
-    "html-validate": "^4.0.1"
+    "html": "^1.0.0",
+    "html-validate": "^4.0.1",
+    "validate": "^5.1.0"
   }
 }
